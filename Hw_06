@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   "Assignment A06 edit your first webpage"
+   </head>
+   <body>
+         <p>
+         "This is the first webpage I'm edditing
+         </p>
+         <ul>
+            <li> Jason McAdam </li>
+            <li> Intro to Website development </li>
+            <li> IS117004</li>
+         </ul>
+   </body>
+</html>
